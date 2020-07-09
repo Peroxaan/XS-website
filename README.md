@@ -3,8 +3,11 @@ Xenoshare Website
 
 ## The Team
 -Michael: Founder and Project Manager
+
 -Joseph: Head of Backend Development
+
 -Adrian: Head of iOS Development
+
 -Cooper: Head of Frontend Web Design
 
 ## About
