@@ -1,0 +1,7 @@
+{
+    "[html]": {
+    "breadcrumbs.showArrays": true,
+        "editor.suggest.insertMode": "replace"
+    },
+    "html.suggest.html5": true
+}
